@@ -19,7 +19,7 @@ Poniżej znajdują się przykładowe zdjęcia programu.
 
 ![img02](/images/02.png)
 
-ENG: KiP: Kadry i Płace is simplified model of payroll software made during my student intern. UI is based on Jak Zostać Programistą dotNET's YouTube channel available here: https://www.youtube.com/watch?v=s_kG0QGoj28&list=PLJ-T3Jx3MEI6M-OVUZAGdA9x9etzszL4a
+ENG: KiP: Kadry i Płace is a simplified model of payroll software made during my student intern. UI is based on Jak Zostać Programistą dotNET's YouTube channel available here: https://www.youtube.com/watch?v=s_kG0QGoj28&list=PLJ-T3Jx3MEI6M-OVUZAGdA9x9etzszL4a
 
 Images of working program are attached above.
 
