@@ -1,6 +1,14 @@
-# KiP - Kadry i Płace
+# KiP: Kadry i Płace
 
-KiP - Kadry i Płace to uproszczony model typowego oprogramowania dla Kadr i Płac, wykonany w ramach
+## What's new?
+
+PL: Nie ma żadnych nowych funkcji.
+
+ENG: There is no new features.
+
+## About project
+
+PL: KiP: Kadry i Płace to uproszczony model typowego oprogramowania dla Kadr i Płac, wykonany w ramach
 praktyk studenckich.
 
 Interfejs graficzny użytkownika zapożyczony został z kursu z kanału Jak Zostać Programistą dotNet, znajdującego się tutaj: https://www.youtube.com/watch?v=s_kG0QGoj28&list=PLJ-T3Jx3MEI6M-OVUZAGdA9x9etzszL4a
@@ -11,23 +19,23 @@ Poniżej znajdują się przykładowe zdjęcia programu.
 
 ![img02](/images/02.png)
 
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+ENG: KiP: Kadry i Płace is simplified model of payroll software made during my student intern. UI is based on Jak Zostać Programistą dotNET's YouTube channel available here: https://www.youtube.com/watch?v=s_kG0QGoj28&list=PLJ-T3Jx3MEI6M-OVUZAGdA9x9etzszL4a
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+Images of working program are attached above.
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+## Technologies used in the project
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+* C# .NET Framework
+* SQL Management Studio 
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+## Goals
+
+PL: Głównym celem tego projektu jest stworzenie oprogramowania, które łączy jednocześnie procesy kadrowo-płacowe, jak i wymagania co do tego, jakie operacje powinien taki program wykonywać.
+
+ENG: Main goal of this project is creating software, which connects payroll processes and feature requirements the software should execute.
+
+## License
+
+My project is under BSD-2-Clause license. You can use some parts from my code but remember to credit me as an appreciation to my work! Thanks! Awoo!
+
+© 2022 Paweł "Wilczeq/Vlk" Turoń
